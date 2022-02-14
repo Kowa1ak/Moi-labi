@@ -1,0 +1,6 @@
+﻿  test.cpp
+C:\Danik\laba\second\test\test\test.cpp(12,48): warning C4244: аргумент: преобразование "double" в "std::streamsize", возможна потеря данных
+C:\Danik\laba\second\test\test\test.cpp(13,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Danik\laba\second\test\test\test.cpp(30,39): warning C4244: аргумент: преобразование "double" в "std::streamsize", возможна потеря данных
+C:\Danik\laba\second\test\test\test.cpp(31,41): warning C4244: аргумент: преобразование "double" в "std::streamsize", возможна потеря данных
+  test.vcxproj -> C:\Danik\laba\second\test\Debug\test.exe

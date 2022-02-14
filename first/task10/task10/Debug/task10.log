@@ -1,0 +1,3 @@
+﻿  task10.cpp
+C:\Danik\laba\first\task10\task10\task10.cpp(23,12): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  task10.vcxproj -> C:\Danik\laba\first\task10\Debug\task10.exe
